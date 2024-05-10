@@ -1,0 +1,23 @@
+{
+  "name": "ecommstore",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "phosphor-react": "^1.4.1",
+    "react-router-dom": "^6.23.0",
+    "stripe": "^15.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
